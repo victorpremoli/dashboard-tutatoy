@@ -1,3 +1,3 @@
 export default function Pedidos() {
-  return <div>pedidos</div>
+  return <div>PEDIDOS</div>
 }

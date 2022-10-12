@@ -7,7 +7,7 @@ interface LayoutProps {
 
 export function LayoutDashboard({ children }: LayoutProps) {
   return (
-    <main>
+    <main className="flex">
       <SideBar />
       {children}
     </main>
